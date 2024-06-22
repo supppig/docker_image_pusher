@@ -10,4 +10,5 @@ nginx:alpine
 php:fpm-alpine
 wangbinxingkong/fast
 delfer/alpine-ftp-server
+supppig/ftp-server:edge
 
